@@ -1,2 +1,2 @@
 # TeltonikaTask
-Teltonika IoT Acadey .NET 
+Teltonika IoT Academy .NET 
